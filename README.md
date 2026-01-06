@@ -56,11 +56,6 @@ The app will be available at `http://localhost:8501` (or 8502 if 8501 is busy).
 
 ---
 
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
 ---
 
 ## Contribution
